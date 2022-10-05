@@ -1,4 +1,4 @@
-# POPEY PROJECT
+# POPEYE PROJECT
 Welcome to my Popeye project, my first DevOps project. The purpose of this project was to create 3 images. During this project, I learned the bases of container applications and describe multicontainers infrastructures with Docker and Docker Compose.
 
 
